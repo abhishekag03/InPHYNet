@@ -1,0 +1,101 @@
+_______________________________________________
+Timestamp: Mon Dec 23 18:31:46 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.2013888888888889
+PTN jaccard similiarity accuracy: 0.24675324675324675
+PTN 0/1 loss: 0.765625
+PTN average precision score: 0.23700683676227152
+PTN macro f1 score: 0.19620657120657117
+PTN micro f1 score: 0.39583333333333337
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 18:31:46 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.22569444444444445
+PTN jaccard similiarity accuracy: 0.15584415584415584
+PTN 0/1 loss: 0.859375
+PTN average precision score: 0.20150516623963644
+PTN macro f1 score: 0.1410812054290315
+PTN micro f1 score: 0.2696629213483146
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 18:31:46 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.1909722222222222
+PTN jaccard similiarity accuracy: 0.19708029197080293
+PTN 0/1 loss: 0.78125
+PTN average precision score: 0.1720534664483077
+PTN macro f1 score: 0.13131313131313133
+PTN micro f1 score: 0.3292682926829268
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 18:31:46 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.21180555555555555
+PTN jaccard similiarity accuracy: 0.19736842105263158
+PTN 0/1 loss: 0.859375
+PTN average precision score: 0.22282755840058074
+PTN macro f1 score: 0.1794544080258366
+PTN micro f1 score: 0.3296703296703297
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 18:31:46 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.19791666666666666
+PTN jaccard similiarity accuracy: 0.2348993288590604
+PTN 0/1 loss: 0.8125
+PTN average precision score: 0.24532675400730955
+PTN macro f1 score: 0.2350067331506437
+PTN micro f1 score: 0.3804347826086956
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 19:13:30 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.1909722222222222
+PTN jaccard similiarity accuracy: 0.22535211267605634
+PTN 0/1 loss: 0.796875
+PTN average precision score: 0.20769347265724075
+PTN macro f1 score: 0.18869248035914704
+PTN micro f1 score: 0.36781609195402293
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 19:13:30 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.1996527777777778
+PTN jaccard similiarity accuracy: 0.1958041958041958
+PTN 0/1 loss: 0.875
+PTN average precision score: 0.21995168670045515
+PTN macro f1 score: 0.21144568938686584
+PTN micro f1 score: 0.32748538011695905
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 19:13:30 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.2013888888888889
+PTN jaccard similiarity accuracy: 0.23178807947019867
+PTN 0/1 loss: 0.796875
+PTN average precision score: 0.22828961788938815
+PTN macro f1 score: 0.19307598135800716
+PTN micro f1 score: 0.37634408602150543
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 19:13:30 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.2013888888888889
+PTN jaccard similiarity accuracy: 0.19444444444444445
+PTN 0/1 loss: 0.828125
+PTN average precision score: 0.2112090455840456
+PTN macro f1 score: 0.20516033673928408
+PTN micro f1 score: 0.32558139534883723
+______________________________________________________________________________________________
+Timestamp: Mon Dec 23 19:13:30 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.1909722222222222
+PTN jaccard similiarity accuracy: 0.2361111111111111
+PTN 0/1 loss: 0.734375
+PTN average precision score: 0.259930239557169
+PTN macro f1 score: 0.23661562203228867
+PTN micro f1 score: 0.38202247191011235
+_______________________________________________

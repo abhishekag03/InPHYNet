@@ -1,0 +1,42 @@
+_______________________________________________
+Timestamp: Fri Dec 20 15:58:33 2019
+Total Epochs: 10
+Epoch Number: NA
+GIRNet hamming loss: 0.14708994708994708
+GIRNet jaccard similiarity accuracy: 0.3431777909037212
+GIRNet 0/1 loss: 0.7166666666666667
+GIRNet average precision score: 0.25856999886091575
+GIRNet macro f1 score: 0.24416371788841915
+GIRNet micro f1 score: 0.5109938434476694
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 18:49:58 2019
+Total Epochs: 50
+Epoch Number: NA
+GIRNet hamming loss: 0.14708994708994708
+GIRNet jaccard similiarity accuracy: 0.36384439359267734
+GIRNet 0/1 loss: 0.6857142857142857
+GIRNet average precision score: 0.2774483983414593
+GIRNet macro f1 score: 0.35399079550888835
+GIRNet micro f1 score: 0.5335570469798657
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 19:28:25 2019
+Total Epochs: 50
+Epoch Number: NA
+GIRNet hamming loss: 0.15079365079365079
+GIRNet jaccard similiarity accuracy: 0.3467048710601719
+GIRNet 0/1 loss: 0.7130952380952381
+GIRNet average precision score: 0.281295016963511
+GIRNet macro f1 score: 0.3454132369731545
+GIRNet micro f1 score: 0.5148936170212766
+____________________________________________________________________________________________
+__
+Timestamp: Mon Dec 23 09:16:45 2019
+Total Epochs: 50
+Epoch Number: NA
+GIRNet hamming loss: 0.16097883597883597
+GIRNet jaccard similiarity accuracy: 0.298963133640553
+GIRNet 0/1 loss: 0.7523809523809524
+GIRNet average precision score: 0.25138358107298264
+GIRNet macro f1 score: 0.25836676209639287
+GIRNet micro f1 score: 0.460310421286031
+____________________________________________________________________________________________

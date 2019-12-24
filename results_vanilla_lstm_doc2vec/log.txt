@@ -1,0 +1,51 @@
+___
+Timestamp: Sun Dec 22 18:32:49 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.19444444444444445
+PTN jaccard similiarity accuracy: 0.2679738562091503
+PTN 0/1 loss: 0.796875
+PTN average precision score: 0.2696534561117894
+PTN macro f1 score: 0.21242478176116622
+PTN micro f1 score: 0.422680412371134
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 18:32:49 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.1701388888888889
+PTN jaccard similiarity accuracy: 0.27941176470588236
+PTN 0/1 loss: 0.75
+PTN average precision score: nan
+PTN macro f1 score: 0.1752422778509735
+PTN micro f1 score: 0.43678160919540227
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 18:32:49 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.17881944444444445
+PTN jaccard similiarity accuracy: 0.2536231884057971
+PTN 0/1 loss: 0.796875
+PTN average precision score: 0.20181417100890536
+PTN macro f1 score: 0.17065527065527067
+PTN micro f1 score: 0.4046242774566475
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 18:32:49 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.18229166666666666
+PTN jaccard similiarity accuracy: 0.26573426573426573
+PTN 0/1 loss: 0.75
+PTN average precision score: 0.25342140892823156
+PTN macro f1 score: 0.26411181411181406
+PTN micro f1 score: 0.419889502762431
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 18:32:49 2019
+Total Epochs: 50
+Epoch Number: NA
+PTN hamming loss: 0.1909722222222222
+PTN jaccard similiarity accuracy: 0.21428571428571427
+PTN 0/1 loss: 0.765625
+PTN average precision score: 0.18348787797459296
+PTN macro f1 score: 0.133994708994709
+PTN micro f1 score: 0.3529411764705882
+___________________________________________________________________________________________
