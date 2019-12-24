@@ -63,7 +63,7 @@ To train and evaluate InPHYNet with a single aux task (TREC dataset) on Doc2Vec 
 python train_inPHYNet_doc2vec.py
 ```
 The evaluation results will be printed after every epoch on the heldout test set.
-```
+
 To train and evaluate InPHYNet with a single aux task (TREC dataset) on TFIDF embeddings, use the following command:
 ```
 python train_inPHYNet_tfidf.py
