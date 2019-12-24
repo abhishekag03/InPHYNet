@@ -1,0 +1,165 @@
+Processing text dataset
+Number of word vectors: 8967
+Processing text dataset
+Number of word vectors: 11386
+-------------
+[[ 0.07106003  0.03335093 -0.00193145 ... -0.05596212  0.08131307
+   0.07367845]
+ [ 0.00492583  0.02729496 -0.08299154 ... -0.08503805 -0.05124818
+   0.09196795]
+ [-0.02292265  0.06124495  0.03773828 ... -0.01619026 -0.07670609
+  -0.01054062]
+ ...
+ [-0.05611304 -0.08593534 -0.09469055 ... -0.02496762 -0.0480946
+   0.00086057]
+ [-0.09827504 -0.03664371  0.03391204 ... -0.06136486  0.08800224
+   0.05908931]
+ [ 0.01564091 -0.04579978 -0.00851869 ... -0.00065214 -0.05081439
+  -0.04496835]]
+[[-0.05183864  0.09149591  0.05247749 ... -0.01792993  0.01173494
+   0.0405726 ]
+ [ 0.00663978 -0.01886596  0.03243054 ... -0.05676559  0.08310519
+  -0.05975061]
+ [ 0.05436525  0.03445114  0.06250556 ...  0.09158029  0.067874
+  -0.08733945]
+ ...
+ [ 0.01535929  0.0020579  -0.02772415 ... -0.03943454 -0.00130883
+   0.05831072]
+ [ 0.02849675 -0.0624352   0.00785499 ...  0.0964985   0.00052998
+   0.03581791]
+ [ 0.06029915  0.02604548 -0.01630039 ...  0.02659192  0.07539566
+  -0.01454191]]
+-------------
+(8967, 300)
+(11386, 300)
+(4199,)
+(4199, 9)
+(4199, 50)
+_______________________________________________
+BinaryRelevance GaussianNB hamming loss:  0.6101851851851852
+BinaryRelevance GaussianNB jaccard similiarity accuracy:  0.2516902872260015
+BinaryRelevance GaussianNB 0/1 loss:  0.9845238095238096
+BinaryRelevance GaussianNB average precision score: 0.2004857437589908
+BinaryRelevance GaussianNB macro f1 score: 0.306008822677469
+BinaryRelevance GaussianNB micro f1 score: 0.3652126049263795
+_______________________________________________
+_______________________________________________
+BinaryRelevance DecisionTreeClassifier hamming loss:  0.1970899470899471
+BinaryRelevance DecisionTreeClassifier jaccard similiarity accuracy:  0.35954365079365075
+BinaryRelevance DecisionTreeClassifier 0/1 loss:  0.8464285714285714
+BinaryRelevance DecisionTreeClassifier average precision score: 0.2303712019778669
+BinaryRelevance DecisionTreeClassifier macro f1 score: 0.325215613890107
+BinaryRelevance DecisionTreeClassifier micro f1 score: 0.4708806818181818
+_______________________________________________
+_______________________________________________
+BinaryRelevance RandomForestClassifier hamming loss:  0.1328042328042328
+BinaryRelevance RandomForestClassifier jaccard similiarity accuracy:  0.4617261904761905
+BinaryRelevance RandomForestClassifier 0/1 loss:  0.6988095238095238
+BinaryRelevance RandomForestClassifier average precision score: 0.26622771167422676
+BinaryRelevance RandomForestClassifier macro f1 score: 0.2900724828324038
+BinaryRelevance RandomForestClassifier micro f1 score: 0.5573192239858907
+_______________________________________________
+_______________________________________________
+BinaryRelevance MLP logistic hamming loss:  0.14629629629629629
+BinaryRelevance MLP logistic jaccard similiarity accuracy:  0.40575396825396826
+BinaryRelevance MLP logistic 0/1 loss:  0.7666666666666666
+BinaryRelevance MLP logistic average precision score: 0.2460238299480186
+BinaryRelevance MLP logistic macro f1 score: 0.26948264283506096
+BinaryRelevance MLP logistic micro f1 score: 0.5195482189400521
+_______________________________________________
+_______________________________________________
+BinaryRelevance MLP relu hamming loss:  0.13174603174603175
+BinaryRelevance MLP relu jaccard similiarity accuracy:  0.4834325396825397
+BinaryRelevance MLP relu 0/1 loss:  0.6952380952380952
+BinaryRelevance MLP relu average precision score: 0.29952170093915725
+BinaryRelevance MLP relu macro f1 score: 0.38575618858745336
+BinaryRelevance MLP relu micro f1 score: 0.5921375921375922
+_______________________________________________
+_______________________________________________
+ClassifierChain GaussianNB hamming loss:  0.43425925925925923
+ClassifierChain GaussianNB jaccard similiarity accuracy:  0.2782426303854875
+ClassifierChain GaussianNB 0/1 loss:  0.9833333333333333
+ClassifierChain GaussianNB average precision score: 0.21185610500336094
+ClassifierChain GaussianNB macro f1 score: 0.3185500656432224
+ClassifierChain GaussianNB micro f1 score: 0.4060068753392437
+_______________________________________________
+_______________________________________________
+ClassifierChain DecisionTreeClassifier hamming loss:  0.19735449735449737
+ClassifierChain DecisionTreeClassifier jaccard similiarity accuracy:  0.3774305555555556
+ClassifierChain DecisionTreeClassifier 0/1 loss:  0.8214285714285714
+ClassifierChain DecisionTreeClassifier average precision score: 0.22921933159302693
+ClassifierChain DecisionTreeClassifier macro f1 score: 0.32260744291162796
+ClassifierChain DecisionTreeClassifier micro f1 score: 0.46828225231646475
+_______________________________________________
+_______________________________________________
+ClassifierChain MLP logistic hamming loss:  0.15052910052910054
+ClassifierChain MLP logistic jaccard similiarity accuracy:  0.46253968253968253
+ClassifierChain MLP logistic 0/1 loss:  0.719047619047619
+ClassifierChain MLP logistic average precision score: 0.24544673546996798
+ClassifierChain MLP logistic macro f1 score: 0.2844101315592332
+ClassifierChain MLP logistic micro f1 score: 0.5388978930307942
+_______________________________________________
+_______________________________________________
+ClassifierChain MLP relu hamming loss:  0.1443121693121693
+ClassifierChain MLP relu jaccard similiarity accuracy:  0.5082936507936509
+ClassifierChain MLP relu 0/1 loss:  0.675
+ClassifierChain MLP relu average precision score: 0.2824343076849143
+ClassifierChain MLP relu macro f1 score: 0.3825793147727354
+ClassifierChain MLP relu micro f1 score: 0.570979158474243
+_______________________________________________
+_______________________________________________
+LabelPowerset GaussianNB hamming loss:  0.22433862433862434
+LabelPowerset GaussianNB jaccard similiarity accuracy:  0.3549178004535148
+LabelPowerset GaussianNB 0/1 loss:  0.8595238095238096
+LabelPowerset GaussianNB average precision score: 0.24583151305168396
+LabelPowerset GaussianNB macro f1 score: 0.3572192130258538
+LabelPowerset GaussianNB micro f1 score: 0.45641025641025645
+_______________________________________________
+_______________________________________________
+LabelPowerset DecisionTreeClassifier hamming loss:  0.19537037037037036
+LabelPowerset DecisionTreeClassifier jaccard similiarity accuracy:  0.3994189342403628
+LabelPowerset DecisionTreeClassifier 0/1 loss:  0.7904761904761904
+LabelPowerset DecisionTreeClassifier average precision score: 0.22938466887316322
+LabelPowerset DecisionTreeClassifier macro f1 score: 0.3191246042138886
+LabelPowerset DecisionTreeClassifier micro f1 score: 0.4764267990074442
+_______________________________________________
+_______________________________________________
+LabelPowerset RandomForestClassifier hamming loss:  0.14351851851851852
+LabelPowerset RandomForestClassifier jaccard similiarity accuracy:  0.5057539682539682
+LabelPowerset RandomForestClassifier 0/1 loss:  0.6583333333333333
+LabelPowerset RandomForestClassifier average precision score: 0.26095368908034505
+LabelPowerset RandomForestClassifier macro f1 score: 0.32249605438581835
+LabelPowerset RandomForestClassifier micro f1 score: 0.556237218813906
+_______________________________________________
+_______________________________________________
+LabelPowerset MLP logistic hamming loss:  0.1537037037037037
+LabelPowerset MLP logistic jaccard similiarity accuracy:  0.46255952380952375
+LabelPowerset MLP logistic 0/1 loss:  0.7047619047619047
+LabelPowerset MLP logistic average precision score: 0.2294079665159334
+LabelPowerset MLP logistic macro f1 score: 0.24975758171357537
+LabelPowerset MLP logistic micro f1 score: 0.517040731504572
+_______________________________________________
+_______________________________________________
+LabelPowerset MLP relu hamming loss:  0.15105820105820106
+LabelPowerset MLP relu jaccard similiarity accuracy:  0.4842857142857142
+LabelPowerset MLP relu 0/1 loss:  0.6952380952380952
+LabelPowerset MLP relu average precision score: 0.26059244767079026
+LabelPowerset MLP relu macro f1 score: 0.33588583918131204
+LabelPowerset MLP relu micro f1 score: 0.5496845425867507
+_______________________________________________
+_______________________________________________
+MLkNN 20 hamming loss:  0.1447089947089947
+MLkNN 20 jaccard similiarity accuracy:  0.4385119047619047
+MLkNN 20 0/1 loss:  0.736904761904762
+MLkNN 20 average precision score: 0.2517639216057519
+MLkNN 20 macro f1 score: 0.30649678394117164
+MLkNN 20 micro f1 score: 0.5403361344537816
+_______________________________________________
+_______________________________________________
+MLkNN 10 hamming loss:  0.14722222222222223
+MLkNN 10 jaccard similiarity accuracy:  0.4380952380952381
+MLkNN 10 0/1 loss:  0.7488095238095238
+MLkNN 10 average precision score: 0.25623933637197066
+MLkNN 10 macro f1 score: 0.3154097997476357
+MLkNN 10 micro f1 score: 0.5447852760736196
+_______________________________________________
