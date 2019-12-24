@@ -159,10 +159,6 @@ if __name__ == '__main__':
 
 	aux_data='data/aux_data_with_labels.txt'
 
-	MAX_EPOCHS=100
-	VEC_SIZE=500
-	ALPHA=0.025
-
 	paras_aux=[]
 	labels_aux=[]
 

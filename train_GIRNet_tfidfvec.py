@@ -197,44 +197,11 @@ def build_model(emb_matrix_aux, emb_matrix_prim, nb_words_aux, nb_words_prim, da
 	print_evaluation_metrics(y_true, y_pred, 'GIRNet', os.path.join('checkpoints_girnet_tfidf', FLAGS.log_file))
 
 
-	test_input_x=[]
-	test_input_y=[]
-
-	# test_input_x.append(data_aux[:500])
-	# test_input_y.append(labels_aux[:500])
-	# test_input_x.append(data_prim[:500])
-	# test_input_y.append(labels_prim[:500])
-
-	test_input_x.append(train_aux_x[:800])
-	test_input_y.append(train_aux_y[:800])
-	test_input_x.append(train_prim_x[:800])
-	test_input_y.append(train_prim_y[:800])
-
-	predictions=model.predict(test_input_x)
-	prim_preds=predictions[1]
-	# y_true=labels_prim[:500]
-	y_true=train_prim_y[:800]
-	y_pred=prim_preds
-
-	for i in range(len(y_pred)):
-		for j in range(len(y_pred[i])):
-			if(y_pred[i][j]>0.6):
-				y_pred[i][j]=1
-			else:
-				y_pred[i][j]=0
-
-	print_evaluation_metrics(y_true, y_pred, 'GIRNet', os.path.join('checkpoints_girnet_tfidf', FLAGS.log_file+'_train'))
-	print('TF')
-
 if __name__ == '__main__':
 
 
 	aux_data='data/aux_data_with_labels.txt'
 	PREPROCESSED_AUX_DATA={'x':'data/preprocessed_aux_paras.pickle', 'y':'data/preprocessed_aux_labels.pickle'}
-
-	MAX_EPOCHS=100
-	VEC_SIZE=500
-	ALPHA=0.025
 
 	paras_aux=[]
 	labels_aux=[]

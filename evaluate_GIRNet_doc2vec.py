@@ -138,4 +138,4 @@ for i in range(len(y_pred)):
 		else:
 			y_pred[i][j]=0
 
-print_evaluation_metrics(y_true, y_pred, 'GIRNet', os.path.join('results_girnet', FLAGS.log_file))
+print_evaluation_metrics(y_true, y_pred, 'GIRNet', os.path.join('results_girnet_doc2vec', FLAGS.log_file))
