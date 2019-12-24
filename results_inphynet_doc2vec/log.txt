@@ -1,0 +1,1461 @@
+____
+Timestamp: Sun Dec 22 17:28:06 2019
+Total Epochs: 50
+Epoch Number: 0
+inphynet hamming loss: 0.18229166666666666
+inphynet jaccard similiarity accuracy: 0.0
+inphynet 0/1 loss: 1.0
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.0
+inphynet micro f1 score: 0.0
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:08 2019
+Total Epochs: 50
+Epoch Number: 0
+inphynet hamming loss: 0.18229166666666666
+inphynet jaccard similiarity accuracy: 0.378698224852071
+inphynet 0/1 loss: 0.859375
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.1476328502415459
+inphynet micro f1 score: 0.5493562231759657
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:12 2019
+Total Epochs: 50
+Epoch Number: 1
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:14 2019
+Total Epochs: 50
+Epoch Number: 1
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:16 2019
+Total Epochs: 50
+Epoch Number: 1
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:17 2019
+Total Epochs: 50
+Epoch Number: 2
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:19 2019
+Total Epochs: 50
+Epoch Number: 2
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:21 2019
+Total Epochs: 50
+Epoch Number: 2
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:22 2019
+Total Epochs: 50
+Epoch Number: 3
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:25 2019
+Total Epochs: 50
+Epoch Number: 3
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:27 2019
+Total Epochs: 50
+Epoch Number: 3
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:28 2019
+Total Epochs: 50
+Epoch Number: 4
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:30 2019
+Total Epochs: 50
+Epoch Number: 4
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:32 2019
+Total Epochs: 50
+Epoch Number: 4
+inphynet hamming loss: 0.18229166666666666
+inphynet jaccard similiarity accuracy: 0.378698224852071
+inphynet 0/1 loss: 0.859375
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.1476328502415459
+inphynet micro f1 score: 0.5493562231759657
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:33 2019
+Total Epochs: 50
+Epoch Number: 5
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:35 2019
+Total Epochs: 50
+Epoch Number: 5
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:39 2019
+Total Epochs: 50
+Epoch Number: 6
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:41 2019
+Total Epochs: 50
+Epoch Number: 6
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:44 2019
+Total Epochs: 50
+Epoch Number: 6
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:45 2019
+Total Epochs: 50
+Epoch Number: 7
+inphynet hamming loss: 0.18229166666666666
+inphynet jaccard similiarity accuracy: 0.378698224852071
+inphynet 0/1 loss: 0.859375
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.1476328502415459
+inphynet micro f1 score: 0.5493562231759657
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:47 2019
+Total Epochs: 50
+Epoch Number: 7
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:49 2019
+Total Epochs: 50
+Epoch Number: 7
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:50 2019
+Total Epochs: 50
+Epoch Number: 8
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:52 2019
+Total Epochs: 50
+Epoch Number: 8
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:54 2019
+Total Epochs: 50
+Epoch Number: 8
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:55 2019
+Total Epochs: 50
+Epoch Number: 9
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:57 2019
+Total Epochs: 50
+Epoch Number: 9
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:28:59 2019
+Total Epochs: 50
+Epoch Number: 9
+inphynet hamming loss: 0.1684027777777778
+inphynet jaccard similiarity accuracy: 0.2706766917293233
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.18229166666666666
+inphynet macro f1 score: 0.08
+inphynet micro f1 score: 0.4260355029585799
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:00 2019
+Total Epochs: 50
+Epoch Number: 10
+inphynet hamming loss: 0.1736111111111111
+inphynet jaccard similiarity accuracy: 0.2805755395683453
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.1810515873015873
+inphynet macro f1 score: 0.09801801801801802
+inphynet micro f1 score: 0.43820224719101125
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:03 2019
+Total Epochs: 50
+Epoch Number: 10
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.3560606060606061
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.19924238912895695
+inphynet macro f1 score: 0.14181253025554788
+inphynet micro f1 score: 0.5251396648044693
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:05 2019
+Total Epochs: 50
+Epoch Number: 10
+inphynet hamming loss: 0.16319444444444445
+inphynet jaccard similiarity accuracy: 0.3188405797101449
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.1879387973137973
+inphynet macro f1 score: 0.12336043360433606
+inphynet micro f1 score: 0.48351648351648346
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:07 2019
+Total Epochs: 50
+Epoch Number: 11
+inphynet hamming loss: 0.14583333333333334
+inphynet jaccard similiarity accuracy: 0.34375
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.2006632128159906
+inphynet macro f1 score: 0.13735051666086145
+inphynet micro f1 score: 0.5116279069767442
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:09 2019
+Total Epochs: 50
+Epoch Number: 11
+inphynet hamming loss: 0.1423611111111111
+inphynet jaccard similiarity accuracy: 0.344
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2027921923755257
+inphynet macro f1 score: 0.13379971009012415
+inphynet micro f1 score: 0.5119047619047619
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:11 2019
+Total Epochs: 50
+Epoch Number: 11
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.4
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2558883738630353
+inphynet macro f1 score: 0.23022566378007298
+inphynet micro f1 score: 0.5714285714285714
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:12 2019
+Total Epochs: 50
+Epoch Number: 12
+inphynet hamming loss: 0.1423611111111111
+inphynet jaccard similiarity accuracy: 0.3643410852713178
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.23707440877754127
+inphynet macro f1 score: 0.2071508738175405
+inphynet micro f1 score: 0.5340909090909092
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:14 2019
+Total Epochs: 50
+Epoch Number: 12
+inphynet hamming loss: 0.140625
+inphynet jaccard similiarity accuracy: 0.35714285714285715
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.24092106453217563
+inphynet macro f1 score: 0.21014492753623187
+inphynet micro f1 score: 0.5263157894736843
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:16 2019
+Total Epochs: 50
+Epoch Number: 12
+inphynet hamming loss: 0.13368055555555555
+inphynet jaccard similiarity accuracy: 0.3937007874015748
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2595808781470546
+inphynet macro f1 score: 0.22389082692834927
+inphynet micro f1 score: 0.5649717514124294
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:17 2019
+Total Epochs: 50
+Epoch Number: 13
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.4
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.26223559710079314
+inphynet macro f1 score: 0.23359876838137708
+inphynet micro f1 score: 0.5714285714285714
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:20 2019
+Total Epochs: 50
+Epoch Number: 13
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.408
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.25776802297524226
+inphynet macro f1 score: 0.2323659879215435
+inphynet micro f1 score: 0.5795454545454546
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:22 2019
+Total Epochs: 50
+Epoch Number: 13
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.4126984126984127
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2786873000188217
+inphynet macro f1 score: 0.2851906389843304
+inphynet micro f1 score: 0.5842696629213483
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:23 2019
+Total Epochs: 50
+Epoch Number: 14
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.416
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2617623430491078
+inphynet macro f1 score: 0.23613357292602577
+inphynet micro f1 score: 0.5875706214689266
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:25 2019
+Total Epochs: 50
+Epoch Number: 14
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.408
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.28533375357775653
+inphynet macro f1 score: 0.27664003873154197
+inphynet micro f1 score: 0.5795454545454546
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:27 2019
+Total Epochs: 50
+Epoch Number: 14
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2610829630490756
+inphynet macro f1 score: 0.23218654983360867
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:28 2019
+Total Epochs: 50
+Epoch Number: 15
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.2602812975657803
+inphynet macro f1 score: 0.23431685273790537
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:30 2019
+Total Epochs: 50
+Epoch Number: 15
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2652537470245804
+inphynet macro f1 score: 0.23643185669329464
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:34 2019
+Total Epochs: 50
+Epoch Number: 16
+inphynet hamming loss: 0.11979166666666667
+inphynet jaccard similiarity accuracy: 0.43902439024390244
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.3052449006213626
+inphynet macro f1 score: 0.30623222667626
+inphynet micro f1 score: 0.6101694915254237
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:36 2019
+Total Epochs: 50
+Epoch Number: 16
+inphynet hamming loss: 0.1232638888888889
+inphynet jaccard similiarity accuracy: 0.4365079365079365
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.3048259660490843
+inphynet macro f1 score: 0.3075765272785168
+inphynet micro f1 score: 0.6077348066298343
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:39 2019
+Total Epochs: 50
+Epoch Number: 16
+inphynet hamming loss: 0.13194444444444445
+inphynet jaccard similiarity accuracy: 0.40625
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.275349788550898
+inphynet macro f1 score: 0.27102330293819654
+inphynet micro f1 score: 0.5777777777777777
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:40 2019
+Total Epochs: 50
+Epoch Number: 17
+inphynet hamming loss: 0.1388888888888889
+inphynet jaccard similiarity accuracy: 0.375
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2578803393817762
+inphynet macro f1 score: 0.23944055944055945
+inphynet micro f1 score: 0.5454545454545455
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:42 2019
+Total Epochs: 50
+Epoch Number: 17
+inphynet hamming loss: 0.13368055555555555
+inphynet jaccard similiarity accuracy: 0.4076923076923077
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.2665903952015063
+inphynet macro f1 score: 0.2701502713928521
+inphynet micro f1 score: 0.5792349726775956
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:44 2019
+Total Epochs: 50
+Epoch Number: 17
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2801821465118034
+inphynet macro f1 score: 0.27964036605167475
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:45 2019
+Total Epochs: 50
+Epoch Number: 18
+inphynet hamming loss: 0.1232638888888889
+inphynet jaccard similiarity accuracy: 0.42276422764227645
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2867857907605715
+inphynet macro f1 score: 0.2905473629476459
+inphynet micro f1 score: 0.5942857142857143
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:47 2019
+Total Epochs: 50
+Epoch Number: 18
+inphynet hamming loss: 0.13194444444444445
+inphynet jaccard similiarity accuracy: 0.3968253968253968
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.28232691239156754
+inphynet macro f1 score: 0.27743589743589747
+inphynet micro f1 score: 0.568181818181818
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:49 2019
+Total Epochs: 50
+Epoch Number: 18
+inphynet hamming loss: 0.11631944444444445
+inphynet jaccard similiarity accuracy: 0.45081967213114754
+inphynet 0/1 loss: 0.609375
+inphynet average precision score: 0.30478039777282206
+inphynet macro f1 score: 0.3040535909844786
+inphynet micro f1 score: 0.6214689265536724
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:50 2019
+Total Epochs: 50
+Epoch Number: 19
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.4112903225806452
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.28507315362474095
+inphynet macro f1 score: 0.2837498335210006
+inphynet micro f1 score: 0.5828571428571429
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:52 2019
+Total Epochs: 50
+Epoch Number: 19
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.4126984126984127
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.3009826614044594
+inphynet macro f1 score: 0.31370529631399197
+inphynet micro f1 score: 0.5842696629213483
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:54 2019
+Total Epochs: 50
+Epoch Number: 19
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.408
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.295595222678556
+inphynet macro f1 score: 0.31058144165671053
+inphynet micro f1 score: 0.5795454545454546
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:55 2019
+Total Epochs: 50
+Epoch Number: 20
+inphynet hamming loss: 0.1232638888888889
+inphynet jaccard similiarity accuracy: 0.4274193548387097
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.2755058925513471
+inphynet macro f1 score: 0.2883274638287543
+inphynet micro f1 score: 0.5988700564971752
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:29:58 2019
+Total Epochs: 50
+Epoch Number: 20
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.4112903225806452
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.2612155915883986
+inphynet macro f1 score: 0.25626537468642735
+inphynet micro f1 score: 0.5828571428571429
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:00 2019
+Total Epochs: 50
+Epoch Number: 20
+inphynet hamming loss: 0.1232638888888889
+inphynet jaccard similiarity accuracy: 0.4274193548387097
+inphynet 0/1 loss: 0.609375
+inphynet average precision score: 0.28394091909313784
+inphynet macro f1 score: 0.3012846179512846
+inphynet micro f1 score: 0.5988700564971752
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:02 2019
+Total Epochs: 50
+Epoch Number: 21
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.4126984126984127
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.28355376997125364
+inphynet macro f1 score: 0.3046509425026049
+inphynet micro f1 score: 0.5842696629213483
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:04 2019
+Total Epochs: 50
+Epoch Number: 21
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2864327801827802
+inphynet macro f1 score: 0.30550368295466335
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:06 2019
+Total Epochs: 50
+Epoch Number: 21
+inphynet hamming loss: 0.1388888888888889
+inphynet jaccard similiarity accuracy: 0.375
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2751092763143417
+inphynet macro f1 score: 0.2906647566067856
+inphynet micro f1 score: 0.5454545454545455
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:07 2019
+Total Epochs: 50
+Epoch Number: 22
+inphynet hamming loss: 0.13541666666666666
+inphynet jaccard similiarity accuracy: 0.376
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.26942146029789704
+inphynet macro f1 score: 0.28406390184775954
+inphynet micro f1 score: 0.5465116279069767
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:09 2019
+Total Epochs: 50
+Epoch Number: 22
+inphynet hamming loss: 0.1371527777777778
+inphynet jaccard similiarity accuracy: 0.373015873015873
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.26258507696007694
+inphynet macro f1 score: 0.26821548821548824
+inphynet micro f1 score: 0.5433526011560694
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:12 2019
+Total Epochs: 50
+Epoch Number: 22
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.416
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.2793289037257163
+inphynet macro f1 score: 0.29936855894302705
+inphynet micro f1 score: 0.5875706214689266
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:12 2019
+Total Epochs: 50
+Epoch Number: 23
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.42063492063492064
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.2916131870079239
+inphynet macro f1 score: 0.3257455138837664
+inphynet micro f1 score: 0.5921787709497207
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:15 2019
+Total Epochs: 50
+Epoch Number: 23
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.4
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.2713038119288119
+inphynet macro f1 score: 0.28639340066161867
+inphynet micro f1 score: 0.5714285714285714
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:17 2019
+Total Epochs: 50
+Epoch Number: 23
+inphynet hamming loss: 0.13194444444444445
+inphynet jaccard similiarity accuracy: 0.3968253968253968
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.27496922378387895
+inphynet macro f1 score: 0.29408831908831906
+inphynet micro f1 score: 0.568181818181818
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:18 2019
+Total Epochs: 50
+Epoch Number: 24
+inphynet hamming loss: 0.11284722222222222
+inphynet jaccard similiarity accuracy: 0.4583333333333333
+inphynet 0/1 loss: 0.625
+inphynet average precision score: 0.32478128839537035
+inphynet macro f1 score: 0.3460223146497656
+inphynet micro f1 score: 0.6285714285714286
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:20 2019
+Total Epochs: 50
+Epoch Number: 24
+inphynet hamming loss: 0.1232638888888889
+inphynet jaccard similiarity accuracy: 0.42276422764227645
+inphynet 0/1 loss: 0.625
+inphynet average precision score: 0.29626355445320957
+inphynet macro f1 score: 0.32036579977756446
+inphynet micro f1 score: 0.5942857142857143
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:22 2019
+Total Epochs: 50
+Epoch Number: 24
+inphynet hamming loss: 0.13368055555555555
+inphynet jaccard similiarity accuracy: 0.3888888888888889
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2634507361518856
+inphynet macro f1 score: 0.2655317797861658
+inphynet micro f1 score: 0.56
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:23 2019
+Total Epochs: 50
+Epoch Number: 25
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.2698918751002084
+inphynet macro f1 score: 0.2664224664224664
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:25 2019
+Total Epochs: 50
+Epoch Number: 25
+inphynet hamming loss: 0.13541666666666666
+inphynet jaccard similiarity accuracy: 0.3858267716535433
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2804733717099308
+inphynet macro f1 score: 0.2788612493090105
+inphynet micro f1 score: 0.5568181818181818
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:27 2019
+Total Epochs: 50
+Epoch Number: 25
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.4065040650406504
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.251862727129434
+inphynet macro f1 score: 0.22504108856018037
+inphynet micro f1 score: 0.5780346820809249
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:29 2019
+Total Epochs: 50
+Epoch Number: 26
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.42063492063492064
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.30885337354231357
+inphynet macro f1 score: 0.36041060979394524
+inphynet micro f1 score: 0.5921787709497207
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:32 2019
+Total Epochs: 50
+Epoch Number: 26
+inphynet hamming loss: 0.13368055555555555
+inphynet jaccard similiarity accuracy: 0.3937007874015748
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.271753267681298
+inphynet macro f1 score: 0.29327486726339863
+inphynet micro f1 score: 0.5649717514124294
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:34 2019
+Total Epochs: 50
+Epoch Number: 26
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.366412213740458
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2612115533643311
+inphynet macro f1 score: 0.2855877616747182
+inphynet micro f1 score: 0.5363128491620112
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:35 2019
+Total Epochs: 50
+Epoch Number: 27
+inphynet hamming loss: 0.13020833333333334
+inphynet jaccard similiarity accuracy: 0.40476190476190477
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.26626914992174733
+inphynet macro f1 score: 0.2744588744588745
+inphynet micro f1 score: 0.576271186440678
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:37 2019
+Total Epochs: 50
+Epoch Number: 27
+inphynet hamming loss: 0.140625
+inphynet jaccard similiarity accuracy: 0.3671875
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.2686846271824342
+inphynet macro f1 score: 0.259066509066509
+inphynet micro f1 score: 0.5371428571428571
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:39 2019
+Total Epochs: 50
+Epoch Number: 27
+inphynet hamming loss: 0.13368055555555555
+inphynet jaccard similiarity accuracy: 0.3937007874015748
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.26779439469390454
+inphynet macro f1 score: 0.26498947817584273
+inphynet micro f1 score: 0.5649717514124294
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:40 2019
+Total Epochs: 50
+Epoch Number: 28
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.34615384615384615
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.24373996325054526
+inphynet macro f1 score: 0.24002170668837333
+inphynet micro f1 score: 0.5142857142857143
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:44 2019
+Total Epochs: 50
+Epoch Number: 28
+inphynet hamming loss: 0.13541666666666666
+inphynet jaccard similiarity accuracy: 0.390625
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.28114453062369726
+inphynet macro f1 score: 0.31017079444189416
+inphynet micro f1 score: 0.5617977528089888
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:45 2019
+Total Epochs: 50
+Epoch Number: 29
+inphynet hamming loss: 0.1267361111111111
+inphynet jaccard similiarity accuracy: 0.4112903225806452
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.316084455667789
+inphynet macro f1 score: 0.35628193972445527
+inphynet micro f1 score: 0.5828571428571429
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:48 2019
+Total Epochs: 50
+Epoch Number: 29
+inphynet hamming loss: 0.1284722222222222
+inphynet jaccard similiarity accuracy: 0.408
+inphynet 0/1 loss: 0.625
+inphynet average precision score: 0.2856451418951419
+inphynet macro f1 score: 0.3127654196157735
+inphynet micro f1 score: 0.5795454545454546
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:50 2019
+Total Epochs: 50
+Epoch Number: 29
+inphynet hamming loss: 0.1388888888888889
+inphynet jaccard similiarity accuracy: 0.375
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.28281133996248853
+inphynet macro f1 score: 0.33400910060923944
+inphynet micro f1 score: 0.5454545454545455
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:51 2019
+Total Epochs: 50
+Epoch Number: 30
+inphynet hamming loss: 0.1371527777777778
+inphynet jaccard similiarity accuracy: 0.3828125
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.2784507540389893
+inphynet macro f1 score: 0.3001610305958132
+inphynet micro f1 score: 0.5536723163841808
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:55 2019
+Total Epochs: 50
+Epoch Number: 30
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.36153846153846153
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.265667234907431
+inphynet macro f1 score: 0.29083885786784336
+inphynet micro f1 score: 0.5310734463276836
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:57 2019
+Total Epochs: 50
+Epoch Number: 31
+inphynet hamming loss: 0.140625
+inphynet jaccard similiarity accuracy: 0.3769230769230769
+inphynet 0/1 loss: 0.671875
+inphynet average precision score: 0.27736197024075815
+inphynet macro f1 score: 0.2932869286012536
+inphynet micro f1 score: 0.547486033519553
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:30:59 2019
+Total Epochs: 50
+Epoch Number: 31
+inphynet hamming loss: 0.1423611111111111
+inphynet jaccard similiarity accuracy: 0.3643410852713178
+inphynet 0/1 loss: 0.640625
+inphynet average precision score: 0.25768315143315146
+inphynet macro f1 score: 0.2689352315897588
+inphynet micro f1 score: 0.5340909090909092
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:01 2019
+Total Epochs: 50
+Epoch Number: 31
+inphynet hamming loss: 0.14583333333333334
+inphynet jaccard similiarity accuracy: 0.35384615384615387
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.261726538974346
+inphynet macro f1 score: 0.26986074343797917
+inphynet micro f1 score: 0.5227272727272727
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:02 2019
+Total Epochs: 50
+Epoch Number: 32
+inphynet hamming loss: 0.15104166666666666
+inphynet jaccard similiarity accuracy: 0.3458646616541353
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2665278779862113
+inphynet macro f1 score: 0.2758065549247423
+inphynet micro f1 score: 0.5139664804469273
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:04 2019
+Total Epochs: 50
+Epoch Number: 32
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.34615384615384615
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2756897320786209
+inphynet macro f1 score: 0.31320987654320986
+inphynet micro f1 score: 0.5142857142857143
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:07 2019
+Total Epochs: 50
+Epoch Number: 32
+inphynet hamming loss: 0.14930555555555555
+inphynet jaccard similiarity accuracy: 0.3533834586466165
+inphynet 0/1 loss: 0.65625
+inphynet average precision score: 0.2746076711354489
+inphynet macro f1 score: 0.3011266087925127
+inphynet micro f1 score: 0.5222222222222223
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:08 2019
+Total Epochs: 50
+Epoch Number: 33
+inphynet hamming loss: 0.1388888888888889
+inphynet jaccard similiarity accuracy: 0.3700787401574803
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.285321462932141
+inphynet macro f1 score: 0.30816051913225617
+inphynet micro f1 score: 0.5402298850574713
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:10 2019
+Total Epochs: 50
+Epoch Number: 33
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.35658914728682173
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.3134989624572958
+inphynet macro f1 score: 0.34852069001459246
+inphynet micro f1 score: 0.5257142857142856
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:12 2019
+Total Epochs: 50
+Epoch Number: 33
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.35658914728682173
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.3093139396611619
+inphynet macro f1 score: 0.3435713240061066
+inphynet micro f1 score: 0.5257142857142856
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:13 2019
+Total Epochs: 50
+Epoch Number: 34
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.3515625
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.28036140171556834
+inphynet macro f1 score: 0.3082662979721803
+inphynet micro f1 score: 0.5202312138728324
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:15 2019
+Total Epochs: 50
+Epoch Number: 34
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.36153846153846153
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2674013486513486
+inphynet macro f1 score: 0.27491108265756153
+inphynet micro f1 score: 0.5310734463276836
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:17 2019
+Total Epochs: 50
+Epoch Number: 34
+inphynet hamming loss: 0.140625
+inphynet jaccard similiarity accuracy: 0.35714285714285715
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.27119141146918924
+inphynet macro f1 score: 0.289546550517228
+inphynet micro f1 score: 0.5263157894736843
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:18 2019
+Total Epochs: 50
+Epoch Number: 35
+inphynet hamming loss: 0.1388888888888889
+inphynet jaccard similiarity accuracy: 0.38461538461538464
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.27967220230778433
+inphynet macro f1 score: 0.29739858906525574
+inphynet micro f1 score: 0.5555555555555556
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:20 2019
+Total Epochs: 50
+Epoch Number: 35
+inphynet hamming loss: 0.1545138888888889
+inphynet jaccard similiarity accuracy: 0.3358208955223881
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2578344335528243
+inphynet macro f1 score: 0.30095663448739235
+inphynet micro f1 score: 0.5027932960893854
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:23 2019
+Total Epochs: 50
+Epoch Number: 35
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.3511450381679389
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.26172131925808395
+inphynet macro f1 score: 0.2630978410048177
+inphynet micro f1 score: 0.519774011299435
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:25 2019
+Total Epochs: 50
+Epoch Number: 36
+inphynet hamming loss: 0.1423611111111111
+inphynet jaccard similiarity accuracy: 0.3643410852713178
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.3187747318774886
+inphynet macro f1 score: 0.3653185957107526
+inphynet micro f1 score: 0.5340909090909092
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:27 2019
+Total Epochs: 50
+Epoch Number: 36
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.36153846153846153
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.2739474774196997
+inphynet macro f1 score: 0.30790025862489634
+inphynet micro f1 score: 0.5310734463276836
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:29 2019
+Total Epochs: 50
+Epoch Number: 36
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.34615384615384615
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2500100208433541
+inphynet macro f1 score: 0.27521801869627954
+inphynet micro f1 score: 0.5142857142857143
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:30 2019
+Total Epochs: 50
+Epoch Number: 37
+inphynet hamming loss: 0.16493055555555555
+inphynet jaccard similiarity accuracy: 0.30656934306569344
+inphynet 0/1 loss: 0.75
+inphynet average precision score: 0.2514957540255159
+inphynet macro f1 score: 0.27444505747846065
+inphynet micro f1 score: 0.4692737430167598
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:32 2019
+Total Epochs: 50
+Epoch Number: 37
+inphynet hamming loss: 0.1579861111111111
+inphynet jaccard similiarity accuracy: 0.3157894736842105
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.25446857144018975
+inphynet macro f1 score: 0.2805944600062247
+inphynet micro f1 score: 0.48
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:34 2019
+Total Epochs: 50
+Epoch Number: 37
+inphynet hamming loss: 0.1579861111111111
+inphynet jaccard similiarity accuracy: 0.3157894736842105
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.24635268778413943
+inphynet macro f1 score: 0.2636209350432353
+inphynet micro f1 score: 0.48
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:35 2019
+Total Epochs: 50
+Epoch Number: 38
+inphynet hamming loss: 0.1579861111111111
+inphynet jaccard similiarity accuracy: 0.3106060606060606
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.25901814235147574
+inphynet macro f1 score: 0.2916382753222398
+inphynet micro f1 score: 0.47398843930635837
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:37 2019
+Total Epochs: 50
+Epoch Number: 38
+inphynet hamming loss: 0.1597222222222222
+inphynet jaccard similiarity accuracy: 0.31343283582089554
+inphynet 0/1 loss: 0.75
+inphynet average precision score: 0.2440244689657881
+inphynet macro f1 score: 0.26967882669637055
+inphynet micro f1 score: 0.4772727272727273
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:40 2019
+Total Epochs: 50
+Epoch Number: 38
+inphynet hamming loss: 0.1597222222222222
+inphynet jaccard similiarity accuracy: 0.30303030303030304
+inphynet 0/1 loss: 0.765625
+inphynet average precision score: 0.2561093453694029
+inphynet macro f1 score: 0.26606035713587206
+inphynet micro f1 score: 0.46511627906976744
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:41 2019
+Total Epochs: 50
+Epoch Number: 39
+inphynet hamming loss: 0.16319444444444445
+inphynet jaccard similiarity accuracy: 0.29850746268656714
+inphynet 0/1 loss: 0.75
+inphynet average precision score: 0.24965352125970405
+inphynet macro f1 score: 0.2716346395450873
+inphynet micro f1 score: 0.45977011494252873
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:43 2019
+Total Epochs: 50
+Epoch Number: 39
+inphynet hamming loss: 0.16145833333333334
+inphynet jaccard similiarity accuracy: 0.30597014925373134
+inphynet 0/1 loss: 0.765625
+inphynet average precision score: 0.2637580930239661
+inphynet macro f1 score: 0.2758125472411186
+inphynet micro f1 score: 0.4685714285714286
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:45 2019
+Total Epochs: 50
+Epoch Number: 39
+inphynet hamming loss: 0.15104166666666666
+inphynet jaccard similiarity accuracy: 0.3458646616541353
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2632513864131511
+inphynet macro f1 score: 0.27541834383939645
+inphynet micro f1 score: 0.5139664804469273
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:46 2019
+Total Epochs: 50
+Epoch Number: 40
+inphynet hamming loss: 0.1579861111111111
+inphynet jaccard similiarity accuracy: 0.3208955223880597
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.246708152958153
+inphynet macro f1 score: 0.27359731771496487
+inphynet micro f1 score: 0.48587570621468923
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:48 2019
+Total Epochs: 50
+Epoch Number: 40
+inphynet hamming loss: 0.15104166666666666
+inphynet jaccard similiarity accuracy: 0.33587786259541985
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2516051720912832
+inphynet macro f1 score: 0.2761102283852537
+inphynet micro f1 score: 0.5028571428571429
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:50 2019
+Total Epochs: 50
+Epoch Number: 40
+inphynet hamming loss: 0.1545138888888889
+inphynet jaccard similiarity accuracy: 0.32575757575757575
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.25051571975591586
+inphynet macro f1 score: 0.2736220569553903
+inphynet micro f1 score: 0.49142857142857144
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:52 2019
+Total Epochs: 50
+Epoch Number: 41
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.3511450381679389
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2684813698206555
+inphynet macro f1 score: 0.293143651839304
+inphynet micro f1 score: 0.519774011299435
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:54 2019
+Total Epochs: 50
+Epoch Number: 41
+inphynet hamming loss: 0.1597222222222222
+inphynet jaccard similiarity accuracy: 0.31343283582089554
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.25098839213498003
+inphynet macro f1 score: 0.26421966597405194
+inphynet micro f1 score: 0.4772727272727273
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:57 2019
+Total Epochs: 50
+Epoch Number: 41
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3383458646616541
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2514480128519538
+inphynet macro f1 score: 0.28077262243928913
+inphynet micro f1 score: 0.5056179775280898
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:31:58 2019
+Total Epochs: 50
+Epoch Number: 42
+inphynet hamming loss: 0.1597222222222222
+inphynet jaccard similiarity accuracy: 0.31343283582089554
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2427969175885842
+inphynet macro f1 score: 0.266333752663312
+inphynet micro f1 score: 0.4772727272727273
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:00 2019
+Total Epochs: 50
+Epoch Number: 42
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.3515625
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.26902138013889165
+inphynet macro f1 score: 0.3033829839287843
+inphynet micro f1 score: 0.5202312138728324
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:02 2019
+Total Epochs: 50
+Epoch Number: 42
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.35658914728682173
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2760020890891385
+inphynet macro f1 score: 0.3110990333115004
+inphynet micro f1 score: 0.5257142857142856
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:03 2019
+Total Epochs: 50
+Epoch Number: 43
+inphynet hamming loss: 0.15104166666666666
+inphynet jaccard similiarity accuracy: 0.33587786259541985
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.26605557917466305
+inphynet macro f1 score: 0.2863666834255069
+inphynet micro f1 score: 0.5028571428571429
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:05 2019
+Total Epochs: 50
+Epoch Number: 43
+inphynet hamming loss: 0.14583333333333334
+inphynet jaccard similiarity accuracy: 0.3488372093023256
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.27559869355846367
+inphynet macro f1 score: 0.2954931139713748
+inphynet micro f1 score: 0.5172413793103448
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:08 2019
+Total Epochs: 50
+Epoch Number: 43
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.34615384615384615
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2590951874395897
+inphynet macro f1 score: 0.2853935659393664
+inphynet micro f1 score: 0.5142857142857143
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:11 2019
+Total Epochs: 50
+Epoch Number: 44
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.3511450381679389
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2765481684662719
+inphynet macro f1 score: 0.29333262014421435
+inphynet micro f1 score: 0.519774011299435
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:13 2019
+Total Epochs: 50
+Epoch Number: 44
+inphynet hamming loss: 0.14930555555555555
+inphynet jaccard similiarity accuracy: 0.3333333333333333
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2645247113997114
+inphynet macro f1 score: 0.2808377896613191
+inphynet micro f1 score: 0.5
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:16 2019
+Total Epochs: 50
+Epoch Number: 45
+inphynet hamming loss: 0.1440972222222222
+inphynet jaccard similiarity accuracy: 0.3464566929133858
+inphynet 0/1 loss: 0.6875
+inphynet average precision score: 0.2650650094131277
+inphynet macro f1 score: 0.27923543576825516
+inphynet micro f1 score: 0.5146198830409358
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:18 2019
+Total Epochs: 50
+Epoch Number: 45
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.3359375
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.26050525092191756
+inphynet macro f1 score: 0.27711988304093566
+inphynet micro f1 score: 0.5029239766081871
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:20 2019
+Total Epochs: 50
+Epoch Number: 46
+inphynet hamming loss: 0.14583333333333334
+inphynet jaccard similiarity accuracy: 0.34375
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.27636020607592854
+inphynet macro f1 score: 0.30372405372405376
+inphynet micro f1 score: 0.5116279069767442
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:22 2019
+Total Epochs: 50
+Epoch Number: 46
+inphynet hamming loss: 0.14756944444444445
+inphynet jaccard similiarity accuracy: 0.3359375
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.2639520202020202
+inphynet macro f1 score: 0.28226267157426577
+inphynet micro f1 score: 0.5029239766081871
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:25 2019
+Total Epochs: 50
+Epoch Number: 46
+inphynet hamming loss: 0.14583333333333334
+inphynet jaccard similiarity accuracy: 0.33858267716535434
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2539069747834116
+inphynet macro f1 score: 0.27481654148320817
+inphynet micro f1 score: 0.5058823529411764
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:26 2019
+Total Epochs: 50
+Epoch Number: 47
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3282442748091603
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.2629573799216656
+inphynet macro f1 score: 0.27691368945238914
+inphynet micro f1 score: 0.4942528735632184
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:28 2019
+Total Epochs: 50
+Epoch Number: 47
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3230769230769231
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.254436227352894
+inphynet macro f1 score: 0.2813832772166106
+inphynet micro f1 score: 0.4883720930232559
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:30 2019
+Total Epochs: 50
+Epoch Number: 47
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3178294573643411
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.2567761322861898
+inphynet macro f1 score: 0.28116204782871457
+inphynet micro f1 score: 0.4823529411764706
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:31 2019
+Total Epochs: 50
+Epoch Number: 48
+inphynet hamming loss: 0.171875
+inphynet jaccard similiarity accuracy: 0.27205882352941174
+inphynet 0/1 loss: 0.765625
+inphynet average precision score: 0.22809718059718057
+inphynet macro f1 score: 0.23513100497346562
+inphynet micro f1 score: 0.4277456647398844
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:33 2019
+Total Epochs: 50
+Epoch Number: 48
+inphynet hamming loss: 0.16319444444444445
+inphynet jaccard similiarity accuracy: 0.3037037037037037
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.24744206410873082
+inphynet macro f1 score: 0.2811986975648911
+inphynet micro f1 score: 0.4659090909090909
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:35 2019
+Total Epochs: 50
+Epoch Number: 48
+inphynet hamming loss: 0.15104166666666666
+inphynet jaccard similiarity accuracy: 0.3409090909090909
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.2820281184864518
+inphynet macro f1 score: 0.30395646474077853
+inphynet micro f1 score: 0.5084745762711864
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:36 2019
+Total Epochs: 50
+Epoch Number: 49
+inphynet hamming loss: 0.14930555555555555
+inphynet jaccard similiarity accuracy: 0.3384615384615385
+inphynet 0/1 loss: 0.71875
+inphynet average precision score: 0.27781234968734964
+inphynet macro f1 score: 0.30672276180232116
+inphynet micro f1 score: 0.5057471264367815
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:38 2019
+Total Epochs: 50
+Epoch Number: 49
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3230769230769231
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.27942884993890743
+inphynet macro f1 score: 0.28558613364814917
+inphynet micro f1 score: 0.4883720930232559
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:40 2019
+Total Epochs: 50
+Epoch Number: 49
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3333333333333333
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.2757706076076569
+inphynet macro f1 score: 0.2919476690620969
+inphynet micro f1 score: 0.5
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:41 2019
+Total Epochs: 50
+Epoch Number: 50
+inphynet hamming loss: 0.1545138888888889
+inphynet jaccard similiarity accuracy: 0.3308270676691729
+inphynet 0/1 loss: 0.734375
+inphynet average precision score: 0.279727280111052
+inphynet macro f1 score: 0.3122399851176799
+inphynet micro f1 score: 0.4971751412429379
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:44 2019
+Total Epochs: 50
+Epoch Number: 50
+inphynet hamming loss: 0.1527777777777778
+inphynet jaccard similiarity accuracy: 0.3333333333333333
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.300971721464233
+inphynet macro f1 score: 0.33436213505379864
+inphynet micro f1 score: 0.5
+______________________________________________________________________________________________
+Timestamp: Sun Dec 22 17:32:46 2019
+Total Epochs: 50
+Epoch Number: 50
+inphynet hamming loss: 0.13541666666666666
+inphynet jaccard similiarity accuracy: 0.38095238095238093
+inphynet 0/1 loss: 0.703125
+inphynet average precision score: 0.3232212234251476
+inphynet macro f1 score: 0.3688570224911077
+inphynet micro f1 score: 0.5517241379310345
+__________________________________________________________________________________________
