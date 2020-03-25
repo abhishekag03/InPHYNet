@@ -37,34 +37,34 @@ We also utilise the following label transformation techniques to convert the mul
 
 We use two types of input embeddings:
 - Doc2Vec
-- TFIDF
+- TF-IDF
 
 To train and evaluate the baseline models on Doc2Vec embeddings, use the following command:
 ```
 python baseline_doc2vec.py
 ```
-To train and evaluate the baseline models on TFIDF embeddings, use the following command:
+To train and evaluate the baseline models on TF-IDF embeddings, use the following command:
 ```
 python baseline_tfidf.py
 ```
-The results of baseline models for both of Doc2Vec and TFIDF embeddings are present in baseline_doc2vec_results.txt and baseline_tfidf_results.txt respectively.
+The results of baseline models for both of Doc2Vec and TF-IDF embeddings are present in baseline_doc2vec_results.txt and baseline_tfidf_results.txt respectively.
 
 ## Training
 To train the vanilla LSTM on Doc2Vec embeddings, use the following command:
 ```
 python train_vanilla_lstm_doc2vec.py
 ```
-To train the vanilla LSTM on TFIDF embeddings, use the following command:
+To train the vanilla LSTM on TF-IDF embeddings, use the following command:
 ```
 python train_vanilla_lstm_tfidf.py
 ```
-To train and evaluate InPHYNet with a single aux task (TREC dataset) on Doc2Vec embeddings, use the following command:
+To train and evaluate InPHYNet with a single auxiliary task (TREC dataset) on Doc2Vec embeddings, use the following command:
 ```
 python train_inPHYNet_doc2vec.py
 ```
 The evaluation results will be printed after every epoch on the heldout test set.
 
-To train and evaluate InPHYNet with a single aux task (TREC dataset) on TFIDF embeddings, use the following command:
+To train and evaluate InPHYNet with a single auxiliary task (TREC dataset) on TF-IDF embeddings, use the following command:
 ```
 python train_inPHYNet_tfidf.py
 ```
@@ -74,7 +74,7 @@ To train GIRNet on Doc2Vec embeddings, use the following command:
 ```
 python train_GIRNet_doc2vec.py
 ```
-To train GIRNet on TFIDF embeddings, use the following command:
+To train GIRNet on TF-IDF embeddings, use the following command:
 ```
 python train_GIRNet_tfidf.py
 ```
@@ -84,7 +84,7 @@ To test the vanilla LSTM performance on Doc2Vec embeddings, use the following co
 ```
 python evaluate_vanilla_lstm_doc2vec.py
 ```
-To test the vanilla LSTM performance on TFIDF embeddings, use the following command:
+To test the vanilla LSTM performance on TF-IDF embeddings, use the following command:
 ```
 python evaluate_vanilla_lstm_tfidf.py
 ```
@@ -93,7 +93,7 @@ To test InPHYNet performance on a singe aux task (TREC dataset) on Doc2Vec embed
 python train_inPHYNet_doc2vec.py
 ```
 The evaluation results will be printed after every epoch on the heldout test set.
-To test InPHYNet performance on a singe aux task (TREC dataset) on TFIDF embeddings, use the following command:
+To test InPHYNet performance on a singe aux task (TREC dataset) on TF-IDF embeddings, use the following command:
 ```
 python train_inPHYNet_tfidf.py
 ```
