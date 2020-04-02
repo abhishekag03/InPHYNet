@@ -6,7 +6,7 @@ Clone this repository using the following command:
 ```
 git clone https://github.com/abhishekag03/InPHYNet/
 ```
-- The Physics data and TREC data can be found at this [link](https://drive.google.com/drive/folders/1nT0NlNJXljP74h4O7-3FjYLR83G1SdPt?usp=sharing). Download this data and put it within `data` folder. Your final data folder hierarchy should contain `<root-folder>/data/paragraphs.pickle`, `<root-folder>/data/labels.pickle` and `<root-folder>/data/aux_test_data_with_labels.txt`.
+- The TREC data can be found at this [link](https://cogcomp.seas.upenn.edu/Data/QA/QC/). Download this data and put it within `data` folder.
 - The SST data is directly loaded from the official torchtext repository. For official documentation, refer [this](https://torchtext.readthedocs.io/en/latest/datasets.html#sst).
 - Install all the dependencies using the following command:
 ```
@@ -114,4 +114,3 @@ python evaluate_GIRNet_tfidf.py
 In case of questions, contact: 
 - vishaal16119 [at] iiitd [dot] ac [dot] in
 - abhishek16126 [at] iiitd [dot] ac [dot] in
-- mohitr [at] iiitd [dot] ac [dot] in
