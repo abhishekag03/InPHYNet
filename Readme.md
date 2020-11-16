@@ -1,5 +1,5 @@
 # InPHYNet
-This repository contains the code and dataset for the paper titled ["InPHYNet: Leveraging attention-based multitask recurrent networks for multi-label physics text classification"](https://www.sciencedirect.com/science/article/pii/S095070512030616X). The code was tested on Python 3.6.8, PyTorch 1.3.1 and Keras 2.3.1 with Tensorflow 1.14.0 backend.
+This repository contains the code for the paper titled ["InPHYNet: Leveraging attention-based multitask recurrent networks for multi-label physics text classification"](https://www.sciencedirect.com/science/article/pii/S095070512030616X). The code was tested on Python 3.6.8, PyTorch 1.3.1 and Keras 2.3.1 with Tensorflow 1.14.0 backend.
 
 ## Getting Started
 Clone this repository using the following command:
