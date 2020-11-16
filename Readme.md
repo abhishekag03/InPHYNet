@@ -78,12 +78,23 @@ To train GIRNet on TF-IDF embeddings, use the following command:
 ```
 python train_GIRNet_tfidf.py
 ```
-For extracting features from the BERT baseline, you can use the following script:
-```
+For extracting features from the BERT baseline, you can use the following script and use `curr_tensor` as the extracted feature for every sample.
+```python
 from transformers import *
 
 tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
 model = BertModel.from_pretrained('bert-base-uncased')
+
+# x is list of input texts/paragraphs
+for i, text in enumerate(x):
+    input_ids = torch.tensor([tokenizer.encode(text)])
+    with torch.no_grad():
+        last_hidden_states = model(input_ids)[0]
+        last_hidden_states = last_hidden_states.view(last_hidden_states.shape[1], last_hidden_states.shape[2])
+        if(last_hidden_states.shape[0]>thresh): # thresh is threshold on the maximum sequence length allowed for each paragraph to ensure consistency across all samples.
+          curr_tensor = last_hidden_states[:thresh]
+        else:
+          curr_tensor = torch.cat([last_hidden_states, torch.zeros((thresh-last_hidden_states.shape[0], last_hidden_states.shape[1]))], 0)
 ```
 Once, the features are extracted, you can train an MLP network with BCE loss for the downstream primary task.
 
