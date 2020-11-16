@@ -8,3 +8,4 @@ numpy==1.16.3
 scikit_multilearn==0.2.0
 scikit_learn==0.22
 testfixtures
+transformers
